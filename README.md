@@ -104,24 +104,37 @@ Providing security for all your websites is important. Security is a multi-facet
 1.  True
 2.  False
 
-**Answer:** 2\. False **Is it possible to have people send you messages without putting your email on the website?**
+**Answer:** 2\. False
+
+* * *
+
+**Is it possible to have people send you messages without putting your email on the website?**
 
 1.  Yes
 2.  No
 
-**Answer:** 1\. Yes **Contact Form 7 allows for conditional logic forms.**
+**Answer:** 1\. Yes 
+
+* * *
+
+**Contact Form 7 allows for conditional logic forms.**
 
 1.  True
 2.  False
 
-**Answer:** 2\. False **Where can you find plugins for your WordPress site?**
+**Answer:** 2\. False 
+
+* * *
+
+**Where can you find plugins for your WordPress site?**
 
 1.  WordPress.com: https://wordpress.com
 2.  Codex: https://codex.wordpress.org/
 3.  WordPress.org plugin repository: https://wordpress.org/plugins/
 4.  WordPress Support Forums: https://wordpress.org/support/
 
-**Answer:** 3\. the WordPress.org plugin repository: https://wordpress.org/plugins/
+**Answer:** 3\. WordPress.org plugin repository: https://wordpress.org/plugins/
+
 
 ## Additional Resources
 
