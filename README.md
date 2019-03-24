@@ -58,8 +58,6 @@ Contact forms provide a way for users to send messages without having to use an 
 *   Can be set to send notifications to different emails addresses depending on the form’s subject.
 *   May benefit of a browser’s autofill function.
 
-[/tip]
-
 ### Search Engine Optimization (SEO)
 
 WordPress plays well with search engines out of the box, but adding an SEO plugin can help focus your efforts and help make your site visible to search engine crawlers. [Yoast SEO](https://wordpress.org/plugins/wordpress-seo/) and [All in One SEO Pack](https://wordpress.org/plugins/all-in-one-seo-pack/) are two of the most popular. They include the ability to add keywords and meta data to help you control how your site is found, as well as rate SEO for specific posts and pages.
