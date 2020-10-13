@@ -127,7 +127,7 @@ Providing security for all your websites is important. Security is a multi-facet
 **Where can you find plugins for your WordPress site?**
 
 1.  WordPress.com: https://wordpress.com
-2.  Codex: https://codex.wordpress.org/
+2.  Code reference: https://developer.wordpress.org/reference/
 3.  WordPress.org plugin repository: https://wordpress.org/plugins/
 4.  WordPress Support Forums: https://wordpress.org/support/
 
